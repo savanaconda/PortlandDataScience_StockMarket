@@ -1,4 +1,9 @@
-import pandas as pd
+# Looks at presidential party data (republican or democrat) over the past years
+# and determines if there is any correlation between party and stock market trends.
+# For example, does the stock market go up when the president is republican?
+# Additionally breaks data into different sectors (Healthcare, Energy, Basic Industry)
+# to see if certain sectors do better or worse for different parties
+
 import matplotlib.pyplot as plt
 from math import *
 import datetime as dt
