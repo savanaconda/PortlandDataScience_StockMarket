@@ -1,0 +1,816 @@
+Symbol,Name,LastSale,MarketCap,ADR TSO,IPOyear,Sector,Industry,Summary Quote
+MMM,3M Company,221.32,1.32077E+11,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mmm
+AAC,"AAC Holdings, Inc.",8.63,207645463.4,n/a,2014,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/aac
+ABT,Abbott Laboratories,56.32,97852804628,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/abt
+ABBV,AbbVie Inc.,96.1,1.53193E+11,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/abbv
+ABEO,Abeona Therapeutics Inc.,19,777332921,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/abeo
+ABEOW,Abeona Therapeutics Inc.,14.21,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/abeow
+ABMD,"ABIOMED, Inc.",174.62,7701120227,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/abmd
+ACIU,AC Immune SA,11.87,675667012.5,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aciu
+ACHC,"Acadia Healthcare Company, Inc.",44.45,3906313161,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/achc
+ACAD,ACADIA Pharmaceuticals Inc.,36.32,4445579114,n/a,2004,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/acad
+ACST,"Acasti Pharma, Inc.",1.3,19156718.1,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/acst
+XLRN,Acceleron Pharma Inc.,36.57,1612388817,n/a,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/xlrn
+ARAY,Accuray Incorporated,4.3,360145059.5,n/a,2007,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/aray
+ACRX,"AcelRx Pharmaceuticals, Inc.",2,90760946,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/acrx
+ACER,Acer Therapeutics Inc.,17.8144,13172751.19,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/acer
+ACERW,Acer Therapeutics Inc.,0.0485,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/acerw
+ACET,Aceto Corporation,11.27,339333129.6,n/a,n/a,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/acet
+AKAO,"Achaogen, Inc.",13.88,586198273.4,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/akao
+ACHV,"Achieve Life Sciences, Inc. ",1.9166,21611146.53,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/achv
+ACHN,"Achillion Pharmaceuticals, Inc.",4.15,567560660.8,n/a,2006,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/achn
+ACRS,"Aclaris Therapeutics, Inc.",26.09,697555728.5,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/acrs
+ACOR,"Acorda Therapeutics, Inc.",27.2,1268899013,n/a,2006,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/acor
+ATNM,"Actinium Pharmaceuticals, Inc.",0.725,58014915.43,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/atnm
+ADMS,"Adamas Pharmaceuticals, Inc.",19.26,433621103.8,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/adms
+ADMP,Adamis Pharmaceuticals Corporation,5.35,167729636.9,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/admp
+ADAP,Adaptimmune Therapeutics plc,7.15,408205390.5,57091663,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/adap
+ADUS,Addus HomeCare Corporation,34.75,403952626,n/a,2009,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/adus
+ADMA,ADMA Biologics Inc,3.05,52466844.2,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/adma
+ADRO,"Aduro Biotech, Inc.",9.2,686434530.8,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/adro
+AAAP,Advanced Accelerator Applications S.A.,73.56,3073590508,41783449,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aaap
+ADXS,"Advaxis, Inc.",3.79,155639514.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/adxs
+ADXSW,"Advaxis, Inc.",1.3,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/adxsw
+ADVM,"Adverum Biotechnologies, Inc.",3.475,150421581.4,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/advm
+AGLE,"Aeglea BioTherapeutics, Inc.",5.05,83083913,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/agle
+AERI,"Aerie Pharmaceuticals, Inc.",65.1,2365774492,n/a,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/aeri
+AEZS,AEterna Zentaris Inc.,2.03,33374742.8,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aezs
+AET,Aetna Inc.,160.84,53414964000,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/aet
+GNMX,"Aevi Genomic Medicine, Inc.",1.73,64200374.39,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/gnmx
+AFMD,Affimed N.V.,2.15,94467510.55,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/afmd
+AGEN,Agenus Inc.,4.33,431754280.7,n/a,2000,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/agen
+AGRX,"Agile Therapeutics, Inc.",4.99,170658000,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/agrx
+AGIO,"Agios Pharmaceuticals, Inc.",67.25,3254307797,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/agio
+ALRN,"Aileron Therapeutics, Inc.",13.58,199827201.3,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alrn
+AIMT,"Aimmune Therapeutics, Inc.",25.66,1296729049,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aimt
+AKTX,Akari Therapeutics Plc,4.54,53246559.18,11728317,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aktx
+AKCA,"Akcea Therapeutics, Inc.",18.44,1227027639,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/akca
+AKBA,"Akebia Therapeutics, Inc.",17.88,843067550.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/akba
+AKER,Akers Biosciences Inc,0.8207,7305251.772,n/a,2014,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/aker
+AKRX,"Akorn, Inc.",33.28,4157224947,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/akrx
+ALBO,"Albireo Pharma, Inc.",28.14,249952199.3,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/albo
+ADHD,Alcobra Ltd.,1.59,43824844.05,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/adhd
+ALDR,"Alder BioPharmaceuticals, Inc.",11.5,778706779.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aldr
+ALDX,"Aldeyra Therapeutics, Inc.",6.75,102263688,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aldx
+ALXN,"Alexion Pharmaceuticals, Inc.",139.02,31027212760,n/a,1996,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alxn
+ALGN,"Align Technology, Inc.",200.88,16100651323,n/a,2001,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/algn
+ALIM,"Alimera Sciences, Inc.",1.38,95289833.52,n/a,2010,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alim
+ALKS,Alkermes plc,50.58,7771962815,n/a,1991,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alks
+AGN,Allergan plc.,188.28,62943169265,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/agn
+AHPI,"Allied Healthcare Products, Inc.",2.0301,8147881.464,n/a,1992,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/ahpi
+ALQA,"Alliqua BioMedical, Inc.",3.2365,1621661.271,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/alqa
+AFAM,Almost Family Inc,47.55,663989674.1,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/afam
+ALNY,"Alnylam Pharmaceuticals, Inc.",114.7,10521817424,n/a,2004,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alny
+APT,"Alpha Pro Tech, Ltd.",3.95,59666807.95,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/apt
+ATEC,"Alphatec Holdings, Inc.",4.15,57195565.6,n/a,2006,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/atec
+ALPN,"Alpine Immune Sciences, Inc.",11.03,43172114.89,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alpn
+ALT,"Altimmune, Inc.",2.66,41459127.08,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/alt
+AMAG,"AMAG Pharmaceuticals, Inc.",15.6,550498759.2,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/amag
+AMRN,Amarin Corporation plc,3.4,897199786,263882290,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/amrn
+AMDA,Amedica Corporation,0.3598,13048104.18,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/amda
+AMED,Amedisys Inc,50.27,1702247566,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/amed
+ARA,"American Renal Associates Holdings, Inc",13.1,409839591.5,n/a,2016,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/ara
+AMS,American Shared Hospital Services,3.0999,17700429,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/ams
+ABC,AmerisourceBergen Corporation (Holding Co),83.21,18232273324,n/a,n/a,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/abc
+AMGN,Amgen Inc.,182.96,1.33501E+11,n/a,1983,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/amgn
+FOLD,"Amicus Therapeutics, Inc.",13.59,2236452878,n/a,2007,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/fold
+AMPH,"Amphastar Pharmaceuticals, Inc.",18.5,854624927,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/amph
+AMPE,"Ampio Pharmaceuticals, Inc.",1.09,74373325.81,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ampe
+APHB,AmpliPhi Biosciences Corporation,1.27,11775772.74,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/aphb
+ANAB,"AnaptysBio, Inc.",64.67,1315548440,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/anab
+AVXL,Anavex Life Sciences Corp.,4.84,204112915.6,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/avxl
+ANGO,"AngioDynamics, Inc.",17.62,646931268.3,n/a,2004,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ango
+ANIP,"ANI Pharmaceuticals, Inc.",59.09,688356309.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/anip
+ANIK,Anika Therapeutics Inc.,59.81,876721296.4,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/anik
+ATRS,"Antares Pharma, Inc.",2.18,340967955.4,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/atrs
+ANTM,"Anthem, Inc.",194.69,51122613101,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/antm
+ANTX,"Anthem, Inc.",51.6246,13679807097,n/a,2015,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/antx
+ANTH,"Anthera Pharmaceuticals, Inc.",1.66,18104660.52,n/a,2010,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/anth
+APEN,"Apollo Endosurgery, Inc.",4.44,76600207.56,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/apen
+AGTC,Applied Genetic Technologies Corporation,4.05,73255529.25,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/agtc
+APRI,"Apricus Biosciences, Inc.",1.82,23266445.02,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/apri
+APVO,Aptevo Therapeutics Inc.,2.36,50549680.16,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/apvo
+APTO,"Aptose Biosciences, Inc.",1.43,34557766.1,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/apto
+AQXP,"Aquinox Pharmaceuticals, Inc.",12.74,298940430.9,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aqxp
+ARDM,Aradigm Corporation,4.93,74502544.54,n/a,1996,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/ardm
+ARLZ,Aralez Pharmaceuticals Inc.,1.46,96156700.84,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/arlz
+PETX,"Aratana Therapeutics, Inc.",6.14,264031045.9,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/petx
+ABUS,Arbutus Biopharma Corporation,6.5,360925467.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/abus
+ABIO,"ARCA biopharma, Inc.",1.25,18005230,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/abio
+ARDX,"Ardelyx, Inc.",5.5,260948264.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ardx
+ARNA,"Arena Pharmaceuticals, Inc.",27.28,1069928284,n/a,2000,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/arna
+ARGX,argenx SE,23.31,163745547.2,7024691,2017,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/argx
+ARGS,"Argos Therapeutics, Inc.",0.1674,9202771.309,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/args
+ARQL,"ArQule, Inc.",1.11,94472324.22,n/a,1996,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/arql
+ARRY,Array BioPharma Inc.,11.08,1903169751,n/a,2000,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/arry
+ARWR,"Arrowhead Pharmaceuticals, Inc.",3.87,289368038.6,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/arwr
+ASND,Ascendis Pharma A/S,35.07,987488049,28157629,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/asnd
+ASMB,"Assembly Biosciences, Inc.",31.24,540452000,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/asmb
+AST,"Asterias Biotherapeutics, Inc.",2.75,137634128.5,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/ast
+AZN,Astrazeneca PLC,34.62,87651874420,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/azn
+ATRA,"Atara Biotherapeutics, Inc.",14.6,446167605,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/atra
+ATNX,"Athenex, Inc.",17.13,977499622.2,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/atnx
+ATHX,"Athersys, Inc.",1.99,226683504.9,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/athx
+ATOS,Atossa Genetics Inc.,0.48,5616516,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/atos
+ATRC,"AtriCure, Inc.",22.83,783848941.3,n/a,2005,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/atrc
+ATRI,Atrion Corporation,675,1249993350,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/atri
+LIFE,"aTyr Pharma, Inc.",5.1,151526747.7,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/life
+BOLD,"Audentes Therapeutics, Inc.",24.98,694048017,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/bold
+AUPH,Aurinia Pharmaceuticals Inc,6.15,516431902.1,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/auph
+EARS,Auris Medical Holding AG,0.7897,35007167.25,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ears
+AVDL,Avadel Pharmaceuticals plc,10.23,414671024.5,40534802,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/avdl
+ATXI,"Avenue Therapeutics, Inc.",4.55,45686586.4,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/atxi
+AVEO,"AVEO Pharmaceuticals, Inc.",3.18,376218867.6,n/a,2010,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/aveo
+AVXS,"AveXis, Inc.",100.06,3194460127,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/avxs
+AVGR,"Avinger, Inc.",0.35,8369908.4,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/avgr
+AVIR,"Aviragen Therapeutics, Inc.",0.7602,29381149.97,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/avir
+AXGN,"AxoGen, Inc.",20,664802940,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/axgn
+AXON          ,Axovant Sciences Ltd.,5.68,610747254,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/axon
+AXSM,"Axsome Therapeutics, Inc.",5,118054835,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/axsm
+AZRX,"AzurRx BioPharma, Inc.",3.51,39425885.46,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/azrx
+BAX,Baxter International Inc.,63.59,34648341421,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bax
+BDX,"Becton, Dickinson and Company",211.83,48205087383,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bdx
+BDXA,"Becton, Dickinson and Company",57.56,0,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bdxa
+BGNE,"BeiGene, Ltd.",84.03,1873621112,22297050,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bgne
+BLPH,"Bellerophon Therapeutics, Inc.",1.45,51489839.3,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/blph
+BLCM,"Bellicum Pharmaceuticals, Inc.",10.39,345223532.4,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/blcm
+BNTC,Benitec Biopharma Limited,2.54,4437364.76,1746994,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bntc
+BNTCW,Benitec Biopharma Limited,0.3499,0,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bntcw
+BYSI,"BeyondSpring, Inc.",28.99,662275448.4,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bysi
+BASI,"Bioanalytical Systems, Inc.",1.8869,15545972.86,n/a,1997,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/basi
+ORPN,Bioblast Pharma Ltd.,2.17,7252704.2,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/orpn
+BIOC,"Biocept, Inc.",1.07,32371505.01,n/a,2014,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/bioc
+BCRX,"BioCryst Pharmaceuticals, Inc.",4.8,471987734.4,n/a,1994,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/bcrx
+BDSI,"BioDelivery Sciences International, Inc.",2.95,163654117.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bdsi
+BIIB,Biogen Inc.,338.1,71485073323,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/biib
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.,31.67,1137925206,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bhvn
+BIOL,"Biolase, Inc.",0.68,51664209.72,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/biol
+BLFS,"BioLife Solutions, Inc.",6.43,85056335.78,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/blfs
+BLRX,BioLineRx Ltd.,1.14,79328730.84,69586606,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/blrx
+BMRN,BioMarin Pharmaceutical Inc.,87.75,15379795168,n/a,1999,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bmrn
+BMRA,"Biomerica, Inc.",2.8304,24115497.66,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bmra
+BVXV,BiondVax Pharmaceuticals Ltd.,7.62,10535160.54,1382567,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/bvxv
+BVXVW,BiondVax Pharmaceuticals Ltd.,1.84,0,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/bvxvw
+BPTH,"Bio-Path Holdings, Inc.",0.45,45025644.6,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bpth
+BPMX,BioPharmX Corporation,0.2449,19511142.59,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bpmx
+BIOS,"BioScrip, Inc.",2.43,309764799.2,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/bios
+BSTC,BioSpecifics Technologies Corp,47.46,340014498.2,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bstc
+BSPM,"Biostar Pharmaceuticals, Inc.",1.74,4633014.48,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bspm
+TECH,Bio-Techne Corp,124.25,4646105473,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/tech
+BEAT,"BioTelemetry, Inc.",31.15,1008016990,n/a,2008,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/beat
+BTX,"BioTime, Inc.",2.64,334915006.8,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/btx
+BIVV,Bioverativ Inc.,60.22,6514722629,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bivv
+BLUE,"bluebird bio, Inc.",142.55,6498766832,n/a,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/blue
+BPMC,Blueprint Medicines Corporation,64.93,2540214121,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bpmc
+BSX,Boston Scientific Corporation,29.69,40738451936,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bsx
+BVX,Bovie Medical Corporation,3.99,123130414.5,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bvx
+BCLI,Brainstorm Cell Therapeutics Inc.,4.24,79893158.24,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/bcli
+BMY,Bristol-Myers Squibb Company,64.42,1.05644E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/bmy
+BKD,Brookdale Senior Living Inc.,10.45,1946612007,n/a,2005,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/bkd
+BCR,"C.R. Bard, Inc.",330.16,23993235977,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/bcr
+CLBS,"Caladrius Biosciences, Inc.",3.35,31580453.35,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/clbs
+CALA,"Calithera Biosciences, Inc.",16.45,583591402.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cala
+CBM,Cambrex Corporation,52.55,1719941846,n/a,1987,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cbm
+CGIX,"Cancer Genetics, Inc.",2.75,64802542.75,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/cgix
+CANF,Can-Fite Biopharma Ltd,1.65,26985667.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/canf
+CMD,Cantel Medical Corp.,98.32,4102643966,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/cmd
+CSU,Capital Senior Living Corporation,12.92,391992515.8,n/a,1997,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/csu
+CAPR,"Capricor Therapeutics, Inc.",2.3,54041372.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/capr
+CARA,"Cara Therapeutics, Inc.",12.43,404987858.6,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cara
+CAH,"Cardinal Health, Inc.",66.71,21028051155,n/a,n/a,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/cah
+CRME,Cardiome Pharma Corporation,1.79,60571849.38,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/crme
+CSII,"Cardiovascular Systems, Inc.",26.34,871464220.7,n/a,1981,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/csii
+CDNA,"CareDx, Inc.",5.85,161206338.2,n/a,2014,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/cdna
+CASM,"CAS Medical Systems, Inc.",0.8,22588557.6,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/casm
+CASC,"Cascadian Therapeutics, Inc.",4.32,218389806.7,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/casc
+CASI,"CASI Pharmaceuticals, Inc.",2.37,161511800.4,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/casi
+CATB,"Catabasis Pharmaceuticals, Inc.",2.31,51932807.85,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/catb
+CTLT,"Catalent, Inc.",42.96,5389579879,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ctlt
+CBIO,"Catalyst Biosciences, Inc. ",5.03,21682121.83,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cbio
+CPRX,"Catalyst Pharmaceuticals, Inc.",2.76,233371742,n/a,2006,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cprx
+CATS,"Catasys, Inc.",3.61,57359907.31,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/cats
+CELC,Celcuity Inc.,16.24,157886092,n/a,2017,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/celc
+CELG,Celgene Corporation,121.33,94922607034,n/a,1987,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/celg
+CELGZ,Celgene Corporation,1.51,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/celgz
+CLDX,"Celldex Therapeutics, Inc.",2.92,374758012.2,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/cldx
+CLRB,"Cellectar Biosciences, Inc.",1.62,25618616.82,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/clrb
+CLRBW,"Cellectar Biosciences, Inc.",0.15,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/clrbw
+CLRBZ,"Cellectar Biosciences, Inc.",0.6519,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/clrbz
+CLLS,Cellectis S.A.,30.39,247064409.3,8129793,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/clls
+CBMG,"Cellular Biomedicine Group, Inc.",9.6,135444374.4,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cbmg
+CVM,Cel-Sci Corporation,1.8693,18847024.71,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cvm
+CLSN,Celsion Corporation,3.76,31400970.72,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/clsn
+CYAD,Celyad SA,62.5,33796812.5,540749,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cyad
+CEMP,"Cempra, Inc.",2.8,147025986.8,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cemp
+CNC,Centene Corporation,96.5,16643900515,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/cnc
+CERC,Cerecor Inc.,0.92,23970468.44,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cerc
+CERCW,Cerecor Inc.,0.036,0,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cercw
+CERS,Cerus Corporation,2.99,326322276.2,n/a,1997,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/cers
+CSBR,"Champions Oncology, Inc.",3.21,35264950.86,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/csbr
+CRL,"Charles River Laboratories International, Inc.",115.17,5481377946,n/a,2000,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/crl
+CHEK,Check-Cap Ltd.,1.67,28356341.15,n/a,2015,Health Care,Medical Electronics,http://www.nasdaq.com/symbol/chek
+CHEKW,Check-Cap Ltd.,0.478,0,n/a,2015,Health Care,Medical Electronics,http://www.nasdaq.com/symbol/chekw
+CKPT,"Checkpoint Therapeutics, Inc.",6.25,158553593.8,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ckpt
+CEMI,"Chembio Diagnostics, Inc.",6.5,80009293,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cemi
+CHE,Chemed Corp.,210.2,3361492756,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/che
+CCXI,"ChemoCentryx, Inc.",7.03,342408867.3,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ccxi
+CHFS,"CHF Solutions, Inc.",7.06,220914.46,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/chfs
+CHMA,"Chiasma, Inc.",2.5,60898960,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/chma
+CMRX,"Chimerix, Inc.",5.07,238524883,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cmrx
+CBPO,"China Biologic Products Holdings, Inc.",80.06,2210403840,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cbpo
+CPHI,"China Pharma Holdings, Inc.",0.16,6972729.12,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cphi
+CDTX,"Cidara Therapeutics, Inc.",7.5,126473212.5,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cdtx
+CI,Cigna Corporation,191.42,48195367922,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/ci
+CTXR,"Citius Pharmaceuticals, Inc.",2.8,23107834.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ctxr
+CTXRW,"Citius Pharmaceuticals, Inc.",0.55,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ctxrw
+CIVI,"Civitas Solutions, Inc.",18.45,689345966.3,n/a,2014,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/civi
+CLSD,"Clearside Biomedical, Inc.",7.9,200158207.8,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/clsd
+CMTA,Clementia Pharmaceuticals Inc.,16.08,490867470.7,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cmta
+CBLI,"Cleveland BioLabs, Inc.",3.1035,35006964.82,n/a,2006,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/cbli
+CLVS,"Clovis Oncology, Inc.",77.5,3788149935,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/clvs
+CODX,"Co-Diagnostics, Inc.",6.14,73176366.5,n/a,2017,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/codx
+CGNT,"Cogentix Medical, Inc.",2.89,176043708.4,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/cgnt
+CHRS,"Coherus BioSciences, Inc.",13.7,793439651.1,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/chrs
+COLL,"Collegium Pharmaceutical, Inc.",11.74,347116286.5,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/coll
+CBMX,CombiMatrix Corporation,7.95,23203871.7,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/cbmx
+CBMXW,CombiMatrix Corporation,2.7,0,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/cbmxw
+CYH,"Community Health Systems, Inc.",6.44,739045879.9,n/a,2000,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/cyh
+CYHHZ,"Community Health Systems, Inc.",0.0112,0,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/cyhhz
+CGEN,Compugen Ltd.,3.75,191744085,n/a,2000,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cgen
+CNAT,Conatus Pharmaceuticals Inc.,5.06,151824900.3,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cnat
+CNCE,"Concert Pharmaceuticals, Inc.",16.09,365036838.8,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cnce
+CCM,Concord Medical Services Holdings Limited,3.75,162614970,n/a,2009,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/ccm
+CXRX,Concordia International Corp.,0.57,29231124.75,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cxrx
+CFMS,"ConforMIS, Inc.",3.61,162469010.3,n/a,2015,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/cfms
+CNMD,CONMED Corporation,53.29,1488077474,n/a,1987,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/cnmd
+CFRX,ContraFect Corporation,1.04,76602246.24,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cfrx
+CTRV,ContraVir Pharmaceuticals Inc,0.7252,56566927.84,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ctrv
+COO,"Cooper Companies, Inc. (The)",235.35,11520203634,n/a,n/a,Health Care,Ophthalmic Goods,http://www.nasdaq.com/symbol/coo
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",7.775,390464465.3,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/crbp
+CORT,Corcept Therapeutics Incorporated,18.39,2085385560,n/a,1982,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cort
+CVRS,"Corindus Vascular Robotics, Inc.",1.15,215391335,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/cvrs
+CORI,"Corium International, Inc.",10.22,365289934.1,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cori
+CRMD,CorMedix Inc,0.609,37592132.15,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/crmd
+CRVS,"Corvus Pharmaceuticals, Inc.",14.78,309412116.9,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/crvs
+CRHM,CRH Medical Corporation,2.35,174140259.3,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/crhm
+CRSP,CRISPR Therapeutics AG,19.07,774083127.8,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/crsp
+CRY,"CryoLife, Inc.",20.4,687399542.4,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/cry
+CTIC,CTI BioPharma Corp.,3.29,141411352.5,n/a,1997,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ctic
+CPIX,Cumberland Pharmaceuticals Inc.,7.4,117634677.2,n/a,2009,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cpix
+CRIS,"Curis, Inc.",1.57,225889959.4,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cris
+CUTR,"Cutera, Inc.",39.2,548998469.6,n/a,2004,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/cutr
+CVS,CVS Health Corporation,76.49,77757036045,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/cvs
+CYCC,"Cyclacel Pharmaceuticals, Inc.",1.89,21546844.83,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cycc
+CYCCP,"Cyclacel Pharmaceuticals, Inc.",6.2,2078692.6,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cyccp
+CBAY,CymaBay Therapeutics Inc.,8.14,356181719.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cbay
+CYTK,"Cytokinetics, Incorporated",14.65,786218048.7,n/a,2004,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/cytk
+CTMX,"CytomX Therapeutics, Inc.",20.16,743246118.7,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ctmx
+CYTX,Cytori Therapeutics Inc,0.5,17358159,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/cytx
+CYTXW,Cytori Therapeutics Inc,0.0263,0,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/cytxw
+CTSO,Cytosorbents Corporation,6.05,170210615.3,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ctso
+CYTR,CytRx Corporation,0.3641,60377173.78,n/a,1986,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cytr
+DARE,"Dare Bioscience, Inc.",3.06,18504324.9,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/dare
+DRIO,DarioHealth Corp.,2.07,21193115.4,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/drio
+DRIOW,DarioHealth Corp.,0.42,0,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/driow
+DVA,DaVita Inc.,59.35,11347720000,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/dva
+DXR,Daxor Corporation,4.58,17361653.32,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/dxr
+DBVT,DBV Technologies S.A.,48.07,1111341098,23119224,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/dbvt
+DCPH,"Deciphera Pharmaceuticals, Inc.",20.15,643292578.5,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/dcph
+DMPI,"DelMar Pharmaceuticals, Inc.",0.8639,18618662.22,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/dmpi
+XRAY,DENTSPLY SIRONA Inc.,61.84,14192394157,n/a,1987,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/xray
+DEPO,"Depomed, Inc.",5.39,339510634.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/depo
+DERM,"Dermira, Inc.",28.61,1189929239,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/derm
+DXCM,"DexCom, Inc.",44.78,3876199162,n/a,2005,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/dxcm
+DXTR,Dextera Surgical Inc.,0.1867,9000102.394,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/dxtr
+DRNA,"Dicerna Pharmaceuticals, Inc.",5.51,114852803.8,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/drna
+DFFN,Diffusion Pharmaceuticals Inc.,1.5601,22505545.49,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/dffn
+DRAD,Digirad Corporation,2.3,45949363.2,n/a,2004,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/drad
+DMTX,"Dimension Therapeutics, Inc.",5.975,150624689.2,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/dmtx
+DPLO,"Diplomat Pharmacy, Inc.",21.39,1461001983,n/a,2014,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/dplo
+DVCR,Diversicare Healthcare Services Inc.,11.5,74276614,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/dvcr
+DOVA,"Dova Pharmaceuticals, Inc.",26.73,685690175.6,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/dova
+RDY,Dr. Reddy&#39;s Laboratories Ltd,36.68,6081616406,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rdy
+DRRX,DURECT Corporation,0.7776,114306108.2,n/a,2000,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/drrx
+DYNT,Dynatronics Corporation,2.2501,10599195.05,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/dynt
+DVAX,Dynavax Technologies Corporation,20.4,1234152182,n/a,2004,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/dvax
+EGRX,"Eagle Pharmaceuticals, Inc.",52,774800000,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/egrx
+EDAP,EDAP TMS S.A.,3.19,93601917.86,29342294,1997,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/edap
+EDGE,"Edge Therapeutics, Inc.",10.46,322709744.3,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/edge
+EDIT,"Editas Medicine, Inc.",24.01,1002085106,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/edit
+EW,Edwards Lifesciences Corporation,113.08,23877750032,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/ew
+EGLT,Egalet Corporation,1.06,45631266.9,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/eglt
+EIGR,"Eiger BioPharmaceuticals, Inc.",12.8,107097984,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/eigr
+ELMD,"Electromed, Inc.",7.46,61620845.82,n/a,2011,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/elmd
+EBIO,"Eleven Biotherapeutics, Inc.",1.3,32110969.8,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ebio
+LLY,Eli Lilly and Company,87.23,96039265585,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/lly
+EBS,"Emergent Biosolutions, Inc.",40.58,1672365389,n/a,2006,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ebs
+ENTA,"Enanta Pharmaceuticals, Inc.",48.16,919392845.3,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/enta
+ENDP,Endo International plc,7.72,1723814765,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/endp
+ECYT,"Endocyte, Inc.",5.19,248390187.4,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ecyt
+ELGX,"Endologix, Inc.",5.1,425516745.6,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/elgx
+NDRA,ENDRA Life Sciences Inc.,2.9,11330378.3,n/a,2017,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/ndra
+NDRAW,ENDRA Life Sciences Inc.,0.6,0,n/a,2017,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/ndraw
+ENTL,"Entellus Medical, Inc.",18.86,479664908.9,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/entl
+ETRM,EnteroMedics Inc.,2.05,34690364.45,n/a,2007,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/etrm
+EVHC,Envision Healthcare Corporation,45.13,5452904187,n/a,2016,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/evhc
+ENZ,"Enzo Biochem, Inc.",9.98,464548022,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/enz
+EPZM,"Epizyme, Inc.",17.05,1179222603,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/epzm
+ESPR,"Esperion Therapeutics, Inc.",47.19,1066171315,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/espr
+EPIX,ESSA Pharma Inc.,0.28,8148528.92,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/epix
+EVOK,"Evoke Pharma, Inc.",3.44,52935838,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/evok
+EXAS,Exact Sciences Corporation,49.15,5853589879,n/a,2001,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/exas
+EXAC,"Exactech, Inc.",32,459138880,n/a,1996,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/exac
+EXEL,"Exelixis, Inc.",27.17,7985390808,n/a,2000,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/exel
+ESRX,Express Scripts Holding Company,59.51,34369940990,n/a,1992,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/esrx
+EYEG,"Eyegate Pharmaceuticals, Inc.",1.09,18753208.02,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/eyeg
+EYEGW,"Eyegate Pharmaceuticals, Inc.",0.0924,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/eyegw
+FATE,"Fate Therapeutics, Inc.",4.18,173118027.3,n/a,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/fate
+FENC,Fennec Pharmaceuticals Inc.,10.4399,165542759,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/fenc
+FCSC,Fibrocell Science Inc,2.8,41208064.8,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/fcsc
+FGEN,"FibroGen, Inc",54.65,3890819101,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/fgen
+FPRX,"Five Prime Therapeutics, Inc.",46.8,1352618374,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/fprx
+FVE,Five Star Senior Living Inc.,1.5,75082818,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/fve
+FLKS,"Flex Pharma, Inc.",3.34,60025865.44,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/flks
+FLXN,"Flexion Therapeutics, Inc.",23.15,738616121.6,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/flxn
+FONR,Fonar Corporation,33.05,212021071.1,n/a,1981,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/fonr
+FBIO,"Fortress Biotech, Inc.",3.98,201099863.9,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/fbio
+FWP,Forward Pharma A/S,6.12,70283824.2,11484285,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/fwp
+FMI,"Foundation Medicine, Inc.",41.1,1480493062,n/a,2013,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/fmi
+FMS,Fresenius Medical Care Corporation,48.89,30004875620,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/fms
+FLGT,"Fulgent Genetics, Inc.",3.94,69897534.54,n/a,2016,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/flgt
+GTHX,"G1 Therapeutics, Inc.",22.05,623694789.9,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gthx
+GLPG,Galapagos NV,100.85,1168567406,11587183,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/glpg
+GALT,Galectin Therapeutics Inc.,2.66,93237535.3,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/galt
+GALE,"Galena Biopharma, Inc.",0.3856,15793725.62,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gale
+GLMD,Galmed Pharmaceuticals Ltd.,7.52,92254307.2,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/glmd
+GEMP,Gemphire Therapeutics Inc.,9.32,99099951.44,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gemp
+GEN           ,"Genesis Healthcare, Inc.",1.04,162574444.2,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/gen
+GENE,Genetic Technologies Ltd,0.922,12108989.27,13133394,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/gene
+GNMK,"GenMark Diagnostics, Inc.",7.92,432965942.6,n/a,2010,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/gnmk
+GNCA,"Genocea Biosciences, Inc.",1.46,41862689.5,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/gnca
+GHDX,"Genomic Health, Inc.",33.72,1168248553,n/a,2005,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/ghdx
+GERN,Geron Corporation,2.05,326387896.4,n/a,1996,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gern
+GILD,"Gilead Sciences, Inc.",81.21,1.06054E+11,n/a,1992,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/gild
+GKOS,Glaukos Corporation,33.62,1157671383,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/gkos
+GSK,GlaxoSmithKline PLC,40.84,1.00438E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gsk
+GBT,"Global Blood Therapeutics, Inc.",32.55,1421679970,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gbt
+GPAC,Global Partner Acquisition Corp.,10.05,160697188.5,n/a,2015,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/gpac
+GPACU,Global Partner Acquisition Corp.,10.8642,0,n/a,2015,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/gpacu
+GPACW,Global Partner Acquisition Corp.,0.77,0,n/a,2015,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/gpacw
+GMED,"Globus Medical, Inc.",30.65,2951346122,n/a,2012,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/gmed
+GLYC,"GlycoMimetics, Inc.",10.52,344246433.4,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/glyc
+GRFS,"Grifols, S.A.",21.62,3092103772,143020526,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/grfs
+GTXI,"GTx, Inc.",7.92,170611919.3,n/a,2004,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gtxi
+GWPH,GW Pharmaceuticals Plc,107.63,2527228064,23480703,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gwph
+HAE,Haemonetics Corporation,45.66,2402005439,n/a,1991,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/hae
+HALO,"Halozyme Therapeutics, Inc.",17.82,2528930824,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/halo
+HYH,"Halyard Health, Inc.",44.01,2059304829,n/a,2014,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/hyh
+HCA,"HCA Healthcare, Inc.",81.05,29279288185,n/a,2011,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/hca
+HCSG,"Healthcare Services Group, Inc.",52.62,3850994700,n/a,1983,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/hcsg
+HLS,HealthSouth Corporation,46.58,4599057109,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/hls
+HTBX,"Heat Biologics, Inc.",0.6496,23248477.24,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/htbx
+HEB,"Hemispherx BioPharma, Inc.",0.325,10178893.4,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/heb
+HSIC,"Henry Schein, Inc.",84.53,13365204824,n/a,1995,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/hsic
+HLF,Herbalife LTD.,74.62,7011473169,n/a,2004,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/hlf
+HRTX,"Heron Therapeutics, Inc.  ",15.5,839150361.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/hrtx
+HSKA,Heska Corporation,96.11,694497587.7,n/a,1997,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/hska
+HRC,Hill-Rom Holdings Inc,81.19,5348856306,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/hrc
+HSGX,Histogenics Corporation,2.25,50603820.75,n/a,2014,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/hsgx
+HOLX,"Hologic, Inc.",37.01,10380323088,n/a,1990,Health Care,Medical Electronics,http://www.nasdaq.com/symbol/holx
+HZNP,Horizon Pharma plc,14.09,2301661636,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/hznp
+HUM,Humana Inc.,245.81,35523773424,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/hum
+HCM,Hutchison China MediTech Limited,27.77,301117163.6,10843254,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/hcm
+IBIO,"iBio, Inc.",0.3738,34695559.04,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ibio
+ICAD,icad inc.,4.64,76999305.92,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/icad
+ICLR,ICON plc,113.63,6140725873,n/a,1998,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/iclr
+ICUI,"ICU Medical, Inc.",191.35,3822714143,n/a,1992,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/icui
+IDRA,"Idera Pharmaceuticals, Inc.",2.36,353131007.9,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/idra
+IDXX,"IDEXX Laboratories, Inc.",164.71,14375199818,n/a,1991,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/idxx
+RXDX,"Ignyta, Inc.",15.8,888811857,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rxdx
+KANG,"iKang Healthcare Group, Inc.",13.53,626208881.8,46282992,2014,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/kang
+ICCC,ImmuCell Corporation,7.7,38872603,n/a,1987,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/iccc
+IMDZ,Immune Design Corp.,5.2,133222606.4,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/imdz
+IMNP          ,Immune Pharmaceuticals Inc.,0.9302,9837307.775,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/imnp
+IMUC,"ImmunoCellular Therapeutics, Ltd.",0.3977,6300234.545,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/imuc
+IMGN,"ImmunoGen, Inc.",5.86,755328040.2,n/a,1989,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/imgn
+IMMU,"Immunomedics, Inc.",11,1664135539,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/immu
+IMRN,Immuron Limited,5.25,2629247.25,500809,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/imrn
+IMRNW,Immuron Limited,1.4,0,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/imrnw
+IPXL,"Impax Laboratories, Inc.",21.25,1576114030,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ipxl
+IMMY,"Imprimis Pharmaceuticals, Inc.",1.85,37121017.75,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/immy
+INCR,"INC Research Holdings, Inc.",55.85,5817954706,n/a,2014,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/incr
+INCY,Incyte Corporation,114.19,24054092783,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/incy
+INFI,"Infinity Pharmaceuticals, Inc.",2.28,115572087.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/infi
+INFU,"InfuSystems Holdings, Inc.",1.9995,45500032.15,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/infu
+INVA,"Innoviva, Inc.",13.83,1512459090,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/inva
+INGN,"Inogen, Inc",96.65,2003207043,n/a,2014,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/ingn
+ITEK,Inotek Pharmaceuticals Corporation,2.38,64284280.76,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/itek
+INO,"Inovio Pharmaceuticals, Inc.",6.23,562115294,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ino
+INSM,"Insmed, Inc.",27.55,2107604368,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/insm
+NSPR,"InspireMD, Inc.",0.39,2911696.71,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nspr
+PODD,Insulet Corporation,61.58,3575310045,n/a,2007,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/podd
+INSY,"Insys Therapeutics, Inc.",7.61,553221483.7,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/insy
+NTEC,Intec Pharma Ltd.,8,207701648,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ntec
+NTLA,"Intellia Therapeutics, Inc.",28.22,1019106631,n/a,2016,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/ntla
+IPCI,Intellipharmaceutics International Inc.,1,34704515,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ipci
+ICPT,"Intercept Pharmaceuticals, Inc.",66.85,1677929719,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/icpt
+IDXG,"Interpace Diagnostics Group, Inc.",1.37,30364137.48,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/idxg
+XENT,"Intersect ENT, Inc.",30.6,893196343.8,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/xent
+ITCI,Intra-Cellular Therapies Inc.,16.08,877217916.2,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/itci
+XON,Intrexon Corporation,17.88,2154887748,n/a,2013,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/xon
+ISRG,"Intuitive Surgical, Inc.",369.58,82676179132,n/a,2000,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/isrg
+IVC,Invacare Corporation,14.6,479910234.4,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/ivc
+NVTA,Invitae Corporation,9.92,496755308.8,n/a,2015,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/nvta
+NVIV,InVivo Therapeutics Holdings Corp.,1.5,51309543,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nviv
+IVTY,"Invuity, Inc.",9.35,159418126.5,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ivty
+IONS,"Ionis Pharmaceuticals, Inc.",64.39,8007198618,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ions
+IOVA,"Iovance Biotherapeutics, Inc.",7.225,516823678,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/iova
+IRMD,iRadimed Corporation,10.2,107936838.6,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/irmd
+IRTC,"iRhythm Technologies, Inc.",52.99,1204457772,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/irtc
+IRIX,IRIDEX Corporation,9.52,110124142.2,n/a,1996,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/irix
+IRWD,"Ironwood Pharmaceuticals, Inc.",15.02,2246870698,n/a,2010,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/irwd
+ISR,"IsoRay, Inc.",0.5,27508709.5,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/isr
+JAGX,"Jaguar Health, Inc.",0.188,16722723.14,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/jagx
+JAZZ,Jazz Pharmaceuticals plc,144.05,8652357920,n/a,2007,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/jazz
+JNJ,Johnson & Johnson,142.4,3.82202E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/jnj
+JNCE,"Jounce Therapeutics, Inc.",14.78,475830468.1,n/a,2017,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/jnce
+JNP,"Juniper Pharmaceuticals, Inc.",4.55,49340714.15,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/jnp
+JUNO,"Juno Therapeutics, Inc.",43.71,5302787007,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/juno
+KTWO,"K2M Group Holdings, Inc.",19.98,865115478.5,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ktwo
+KDMN,"Kadmon Holdings, Inc.",3.46,179388962.7,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kdmn
+KALA,"Kala Pharmaceuticals, Inc.",16.87,408710333.5,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kala
+KALV,"KalVista Pharmaceuticals, Inc.",11.26,121423685.1,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kalv
+KMDA,Kamada Ltd.,5,201273700,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kmda
+KPTI,Karyopharm Therapeutics Inc.,10.97,517113305.2,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kpti
+KMPH,"KemPharm, Inc.",3.85,56431105.5,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kmph
+KERX,"Keryx Biopharmaceuticals, Inc.",6.5,771876501.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kerx
+KIN,"Kindred Biosciences, Inc.",7.95,223806913.4,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kin
+KND,"Kindred Healthcare, Inc.",6.5,565623617,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/knd
+KTOV,Kitov Pharmaceuticals Holdings Ltd.,2.37,9874550.49,4166477,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ktov
+KTOVW,Kitov Pharmaceuticals Holdings Ltd.,0.7,0,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ktovw
+KRYS,"Krystal Biotech, Inc.",9.99,96336037.53,n/a,2017,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/krys
+KURA,"Kura Oncology, Inc.",14.1,301383396.9,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/kura
+LJPC,La Jolla Pharmaceutical Company,34.83,770559972.5,n/a,1994,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/ljpc
+LH,Laboratory Corporation of America Holdings,151.72,15445096000,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/lh
+LAKE,"Lakeland Industries, Inc.",15.55,124904582,n/a,1986,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/lake
+LCI,Lannett Co Inc,24.2,902280471.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/lci
+LNTH,"Lantheus Holdings, Inc.",18.25,681651205.8,n/a,2015,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/lnth
+LPTX,"LEAP THERAPEUTICS, INC.",5.69,53462784.8,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/lptx
+LMAT,"LeMaitre Vascular, Inc.",39.01,742085903.7,n/a,2006,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/lmat
+LXRX,"Lexicon Pharmaceuticals, Inc.",11.16,1178289049,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/lxrx
+LHCG,LHC Group,67.66,1236956128,n/a,2005,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/lhcg
+LLIT,Lianluo Smart Limited,1.4,24237620.4,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/llit
+LPNT,"LifePoint Health, Inc.",58.35,2340774027,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/lpnt
+LFVN,Lifevantage Corporation,6.43,91486965.92,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/lfvn
+LGND,Ligand Pharmaceuticals Incorporated,143.93,3030229391,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/lgnd
+LPCN,Lipocine Inc.,3.71,76695004.68,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/lpcn
+LIVN,LivaNova PLC,74.82,3604963398,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/livn
+EVAR,"Lombard Medical, Inc.",0.39,10900806.15,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/evar
+LOXO,"Loxo Oncology, Inc.",86.62,2585840441,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/loxo
+LMNX,Luminex Corporation,20.46,901695238,n/a,2000,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/lmnx
+LUNA,Luna Innovations Incorporated,1.61,45444561.96,n/a,2006,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/luna
+MBVX,"MabVax Therapeutics Holdings, Inc.",0.7101,13434793.76,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mbvx
+MGNX,"MacroGenics, Inc.",17.73,652436784.5,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mgnx
+MDGL,"Madrigal Pharmaceuticals, Inc.",45.01,562431682.1,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mdgl
+MGLN,"Magellan Health, Inc.",86.95,2059198244,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/mgln
+MNK,Mallinckrodt plc,32.42,3150535659,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mnk
+MNKD,MannKind Corporation,4.11,430346246.8,n/a,2004,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mnkd
+MRNS,"Marinus Pharmaceuticals, Inc.",5.3,195086772.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mrns
+MASI,Masimo Corporation,86.63,4499574935,n/a,2007,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/masi
+MTNB,"Matinas Biopharma Holdings, Inc.",1.23,113899635.9,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mtnb
+MZOR,Mazor Robotics Ltd.,53.81,804762342.7,14955628,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mzor
+MCK,McKesson Corporation,150.78,31703082864,n/a,n/a,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/mck
+MNOV,"MediciNova, Inc.",6.14,215321584.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mnov
+MDGS,Medigus Ltd.,2.39,2553786.7,1068530,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mdgs
+MD,"Mednax, Inc",44.51,4164763000,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/md
+MDVX,Medovex Corp.,1.13,23642576.42,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mdvx
+MDVXW,Medovex Corp.,0.2,0,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mdvxw
+MEDP,"Medpace Holdings, Inc.",33.64,1261057567,n/a,2016,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/medp
+MDT,Medtronic plc,78.34,1.06431E+11,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/mdt
+MEIP,"MEI Pharma, Inc.",2.68,99026474.36,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/meip
+MRK,"Merck & Company, Inc.",63.88,1.74223E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mrk
+VIVO,Meridian Bioscience Inc.,15.8,666807668.6,n/a,1986,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/vivo
+MMSI,"Merit Medical Systems, Inc.",42,2105435556,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mmsi
+MACK,"Merrimack Pharmaceuticals, Inc.",12.75,169320000,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mack
+MRSN,"Mersana Therapeutics, Inc.",17.46,396562502.3,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mrsn
+MRUS,Merus N.V.,17.48,339054665.6,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mrus
+MESO,Mesoblast Limited,6.54,30012936.36,4589134,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/meso
+MGCD,MGC Diagnostics Corporation,8.31,36896740.71,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mgcd
+MBOT,Microbot Medical Inc. ,1.19,44036346.27,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/mbot
+MICR,"Micron Solutions, Inc.",3.5,9873496.5,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/micr
+MTP,Midatech Pharma PLC,1.4439,2583708.884,1789396,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mtp
+MLSS,"Milestone Scientific, Inc.",1.245,41072206.38,n/a,2015,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/mlss
+MDXG,"MiMedx Group, Inc",13.9,1563333417,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/mdxg
+NERV,"Minerva Neurosciences, Inc",7.45,287694765.2,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nerv
+MGEN,"Miragen Therapeutics, Inc.",9.42,202376510.5,n/a,2014,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/mgen
+MRTX,"Mirati Therapeutics, Inc.",15.75,393274082.3,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mrtx
+MTEM,"Molecular Templates, Inc.",8.93,240046428.1,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mtem
+MBRX,"Moleculin Biotech, Inc.",2.18,44170950.72,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mbrx
+MOH,Molina Healthcare Inc,64.4,3678399200,n/a,2003,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/moh
+MNTA,"Momenta Pharmaceuticals, Inc.",14.05,1071048767,n/a,2004,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/mnta
+MTFB,Motif Bio plc,10.78,13056520.4,1211180,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mtfb
+MTFBW,Motif Bio plc,4.0757,0,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mtfbw
+MSA,MSA Safety Incorporporated,82.59,3153860201,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/msa
+MBIO,"Mustang Bio, Inc.",8.9,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mbio
+MYL,Mylan N.V.,38.51,20652171220,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/myl
+MYND,"MYnd Analytics, Inc.",2.86,12123714.46,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/mynd
+MYNDW,"MYnd Analytics, Inc.",0.78,0,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/myndw
+MYOK,"MyoKardia, Inc.",36.95,1312268608,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/myok
+MYO,Myomo Inc.,3.25,19783448.75,n/a,2017,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/myo
+MYOS,MYOS RENS Technology Inc.,1.423,8316541.356,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/myos
+MYOV,Myovant Sciences Ltd.,13.91,846344213,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/myov
+MYGN,"Myriad Genetics, Inc.",34.86,2412550721,n/a,1995,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/mygn
+NBRV,Nabriva Therapeutics plc,6.33,189508654.1,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nbrv
+NSTG,"NanoString Technologies, Inc.",10.23,257843088.7,n/a,2013,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/nstg
+NNVC,"NanoViricides, Inc.",1.01,63940070,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/nnvc
+NK,"NantKwest, Inc.",4.59,364632813,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/nk
+NTRA,"Natera, Inc.",13.2,702543982.8,n/a,2015,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/ntra
+NHC,National HealthCare Corporation,65.47,994818614.1,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/nhc
+NRCIA,National Research Corporation,37.7,923010193.3,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/nrcia
+NRCIB,National Research Corporation,53.46,1308862730,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/nrcib
+NATR,"Nature&#39;s Sunshine Products, Inc.",10,188927810,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/natr
+BABY,Natus Medical Incorporated,40.1,1329299602,n/a,2001,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/baby
+NAVB,"Navidea Biopharmaceuticals, Inc.",0.4161,67494185.4,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/navb
+NKTR,Nektar Therapeutics,24.16,3776873125,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nktr
+NEOG,Neogen Corporation,80.16,3064778122,n/a,1989,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/neog
+NEO,"NeoGenomics, Inc.",8.84,701790043.8,n/a,n/a,Health Care,Precision Instruments,http://www.nasdaq.com/symbol/neo
+NEOS,"Neos Therapeutics, Inc.",7.7,216220889.5,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/neos
+NEOT,"Neothetics, Inc.",1.24,17151366.28,n/a,1996,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/neot
+NVCN,Neovasc Inc.,1.47,115998711.4,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nvcn
+NEPT,Neptune Technologies & Bioresources Inc,0.8697,68386400.86,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nept
+CUR,"Neuralstem, Inc.",1.42,21412686.94,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/cur
+NBIX,"Neurocrine Biosciences, Inc.",59.03,5207725416,n/a,1996,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/nbix
+NURO,"NeuroMetrix, Inc.",1.71,3634637.49,n/a,2004,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nuro
+NUROW,"NeuroMetrix, Inc.",0.0297,0,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nurow
+NTRP,"Neurotrope, Inc.",4.65,36715744.35,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ntrp
+NVRO,Nevro Corp.,91.49,2693746017,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nvro
+NLNK,NewLink Genetics Corporation,10.08,314717326.6,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nlnk
+NITE,Nightstar Therapeutics plc,19,101840000,5360000,2017,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/nite
+HLTH,Nobilis Health Corp.,1.4,108927019.6,n/a,2015,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/hlth
+NBY,"NovaBay Pharmaceuticals, Inc.",4.3,65829452.5,n/a,2007,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nby
+NOVN,"Novan, Inc.",5.41,86473932.31,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/novn
+NVS,Novartis AG,85.74,2.0088E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nvs
+NVAX,"Novavax, Inc.",1.05,308892433.5,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/nvax
+NVLN,Novelion Therapeutics Inc. ,6.55,121555371.6,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nvln
+NVO,Novo Nordisk A/S,50.55,1.28903E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nvo
+NVCR,NovoCure Limited,18.1,1610946608,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nvcr
+NVGN,Novogen Limited,3.1,5550057.1,1790341,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nvgn
+NVUS,"Novus Therapeutics, Inc.",4.47,31035478.2,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/nvus
+NUS,"Nu Skin Enterprises, Inc.",63.16,3343827962,n/a,1996,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/nus
+NCNA,NuCana plc,14.08,108352710.4,7695505,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ncna
+NUVA,"NuVasive, Inc.",55.05,2796750291,n/a,2004,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nuva
+NVTR,Nuvectra Corporation,13.76,147232000,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/nvtr
+NXTM,"NxStage Medical, Inc.",27.51,1821100570,n/a,2005,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/nxtm
+NYMX,Nymox Pharmaceutical Corporation,3.87,202662890.6,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/nymx
+OASM,Oasmia Pharmaceutical AB,0.95,843214.3,887594,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/oasm
+OBLN,"Obalon Therapeutics, Inc.",9.07,152594940.7,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/obln
+OBSV,ObsEva SA,10.76,318832379.1,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/obsv
+OCRX,"Ocera Therapeutics, Inc.",1.09,28895955.59,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ocrx
+OCUL,"Ocular Therapeutix, Inc.",5.56,161556758.8,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ocul
+OHRP,"Ohr Pharmaceuticals, Inc.",0.63,35413199.64,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ohrp
+OMER,Omeros Corporation,18.95,905882919.6,n/a,2009,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/omer
+ONS,"Oncobiologics, Inc.",1.35,33659024.85,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/ons
+ONSIW,"Oncobiologics, Inc.",0.1143,0,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/onsiw
+ONSIZ,"Oncobiologics, Inc.",0.05,0,n/a,2016,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/onsiz
+OCX,OncoCyte Corporation,6.5,203687165.5,n/a,2015,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/ocx
+OMED,"OncoMed Pharmaceuticals, Inc.",3.76,141490465.7,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/omed
+ONTX,"Onconova Therapeutics, Inc.",2.45,24135349.35,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ontx
+ONTXW,"Onconova Therapeutics, Inc.",0.8,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ontxw
+ONCS,OncoSec Medical Incorporated,1.251,26481410.69,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/oncs
+OPGN,"OpGen, Inc.",0.365,18818099.14,n/a,2015,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/opgn
+OPGNW,"OpGen, Inc.",0.0358,0,n/a,2015,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/opgnw
+OPHT,Ophthotech Corporation,2.41,86622338.39,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/opht
+OPK,"Opko Health, Inc.",6.96,3893458389,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/opk
+OPTN,"OptiNose, Inc.",19.01,696455549.7,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/optn
+OGEN,"Oragenics, Inc.",0.36,17738718.84,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ogen
+ORMP,Oramed Pharmaceuticals Inc.,10.78,143599970.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ormp
+OSUR,"OraSure Technologies, Inc.",20.24,1203459025,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/osur
+OREX,"Orexigen Therapeutics, Inc.",1.78,27467119.48,n/a,2007,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/orex
+ONVO,"Organovo Holdings, Inc.",1.61,170858107.3,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/onvo
+OFIX,Orthofix International N.V.,49.5,899460688.5,n/a,1992,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ofix
+KIDS,OrthoPediatrics Corp.,18.42,221858492.7,n/a,2017,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/kids
+OTIC,"Otonomy, Inc.",3.45,104546764.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/otic
+OVAS,OvaScience Inc.,1.53,54600328.17,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ovas
+OVID,Ovid Therapeutics Inc.,7.4,182054326.4,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ovid
+OMI,"Owens & Minor, Inc.",29.26,1791484844,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/omi
+OXFD,Oxford Immunotec Global PLC,16.07,411006673.5,n/a,2013,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/oxfd
+PCRX,"Pacira Pharmaceuticals, Inc.",33.5,1351441925,n/a,2011,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pcrx
+PTIE,"Pain Therapeutics, Inc.",3.835,25293777.02,n/a,2000,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ptie
+PTN,"Palatin Technologies, Inc.",0.82,146817271.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ptn
+PRTK,"Paratek Pharmaceuticals, Inc. ",23.2,644059561.6,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/prtk
+PDCO,"Patterson Companies, Inc.",39.37,3767827110,n/a,1992,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/pdco
+PAVM,PAVmed Inc.,5.45,72655099.95,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/pavm
+PAVMW,PAVmed Inc.,1.8,0,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/pavmw
+PDLI,"PDL BioPharma, Inc.",3.5,539282075.5,n/a,1992,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/pdli
+PEN,"Penumbra, Inc.",95.55,3226916320,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/pen
+PPHM,Peregrine Pharmaceuticals Inc.,4.08,183992010.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pphm
+PPHMP,Peregrine Pharmaceuticals Inc.,23.81,16667000,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pphmp
+PTX,"Pernix Therapeutics Holdings, Inc.",2.83,32636757.09,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ptx
+PRGO,Perrigo Company,87.44,12469913535,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/prgo
+PETQ,"PetIQ, Inc.",25.76,553602261,n/a,2017,Health Care,Other Pharmaceuticals,http://www.nasdaq.com/symbol/petq
+PETS,"PetMed Express, Inc.",36.74,757002239.2,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/pets
+PFNX,Pfenex Inc.,2.75,64703856.25,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pfnx
+PFE,"Pfizer, Inc.",36.42,2.16602E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pfe
+PMC,Pharmerica Corporation,29.2,908672668.4,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/pmc
+PZRX,"PhaseRx, Inc.",1.04,12157942.16,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pzrx
+PAHC,Phibro Animal Health Corporation,37.1,1490332043,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pahc
+PHMD,"PhotoMedex, Inc.",1.2601,6603337.313,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/phmd
+PIRS,"Pieris Pharmaceuticals, Inc.",5,221543875,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/pirs
+PSTI,"Pluristem Therapeutics, Inc.",1.765,172040995.8,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/psti
+PLXP,PLx Pharma Inc.,8.7,75589019.1,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/plxp
+PTLA,"Portola Pharmaceuticals, Inc.",50.65,2928655835,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ptla
+PRAH,"PRA Health Sciences, Inc.",82.88,5192565437,n/a,2014,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/prah
+PRAN,Prana Biotechnology Ltd,3.44,21866941.36,6356669,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pran
+LENS,Presbia PLC,4.32,74139196.32,n/a,2015,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/lens
+PBH,"Prestige Brand Holdings, Inc.",48.07,2547718172,n/a,2005,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pbh
+PBMD,Prima BioMed Ltd,2.24,14093054.08,6291542,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pbmd
+PDEX,"Pro-Dex, Inc.",7.75,32501880.25,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/pdex
+PGNX,Progenics Pharmaceuticals Inc.,6.41,450429725.7,n/a,1997,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pgnx
+PRPH,"ProPhase Labs, Inc.",2.1,26099768.1,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/prph
+PRQR,ProQR Therapeutics N.V.,4.4,106063095.6,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/prqr
+PTGX,"Protagonist Therapeutics, Inc.",15.93,269260982.7,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ptgx
+PLX,"Protalix BioTherapeutics, Inc.",0.79,105350480.8,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/plx
+PRTO,"Proteon Therapeutics, Inc.",2.25,39643690.5,n/a,2014,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/prto
+PTI,"Proteostasis Therapeutics, Inc.",2.24,56228244.8,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pti
+PRTA,Prothena Corporation plc,57.91,2216509941,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/prta
+PMD,Psychemedics Corporation,16.7454,91958251.61,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/pmd
+PTCT,"PTC Therapeutics, Inc.",17.79,736311128.3,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ptct
+PULM,"Pulmatrix, Inc.",1.9,38236380.9,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pulm
+PLSE,"Pulse Biosciences, Inc",23.56,384966041.4,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/plse
+PBYI,Puma Biotechnology Inc,124.65,4637677666,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/pbyi
+QGEN,Qiagen N.V.,34.13,7789626420,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/qgen
+DGX,Quest Diagnostics Incorporated,95.08,12969435225,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/dgx
+QDEL,Quidel Corporation,41.77,1396804506,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/qdel
+Q,"Quintiles IMS Holdings, Inc.",103.03,21750208835,n/a,2013,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/q
+QHC,Quorum Health Corporation,5.01,151790595.2,n/a,2016,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/qhc
+QTNT,Quotient Limited,4.72,177792794.8,n/a,2014,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/qtnt
+RARX,"Ra Pharmaceuticals, Inc.",15.24,344571005,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rarx
+RDUS,"Radius Health, Inc.",35.64,1550491470,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rdus
+RDNT,"RadNet, Inc.",11.15,527019824.8,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/rdnt
+RETA,"Reata Pharmaceuticals, Inc.",32.8,0,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/reta
+REPH,"Recro Pharma, Inc.",8.97,170964647.9,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/reph
+RDHL,Redhill Biopharma Ltd.,9.25,96086428.5,10387722,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rdhl
+REGN,"Regeneron Pharmaceuticals, Inc.",432.98,46394769515,n/a,1991,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/regn
+RGNX,REGENXBIO Inc.,32.75,1013577883,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/rgnx
+RGLS,Regulus Therapeutics Inc.,1.21,125580733.3,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rgls
+RELV,"Reliv&#39; International, Inc.",5.79,10683476.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/relv
+RNVA,"Rennova Health, Inc.",0.7811,70768.4411,n/a,n/a,Health Care,Precision Instruments,http://www.nasdaq.com/symbol/rnva
+RNVAZ,"Rennova Health, Inc.",0.018,0,n/a,n/a,Health Care,Precision Instruments,http://www.nasdaq.com/symbol/rnvaz
+RGEN,Repligen Corporation,37.92,1632458199,n/a,1986,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/rgen
+RPRX,Repros Therapeutics Inc.,0.5639,21211295.87,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/rprx
+RMD,ResMed Inc.,79,11241735629,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/rmd
+HAIR,"Restoration Robotics, Inc.",6.96,198923989.7,n/a,2017,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/hair
+RVP,"Retractable Technologies, Inc.",0.62,19633201.48,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/rvp
+RTRX,"Retrophin, Inc.",24.31,933150678.5,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rtrx
+RVNC,"Revance Therapeutics, Inc.",25.5,785889319.5,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rvnc
+RWLK,ReWalk Robotics Ltd,1.5,32620750.5,n/a,2014,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/rwlk
+RNN,"Rexahn Pharmaceuticals, Inc.",1.85,58691460.9,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rnn
+RYTM,"Rhythm Pharmaceuticals, Inc.",23.08,601787550.7,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rytm
+RIGL,"Rigel Pharmaceuticals, Inc.",3.89,564859112.2,n/a,2000,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rigl
+RAD,Rite Aid Corporation,1.78,1893848777,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/rad
+RTTR,"Ritter Pharmaceuticals, Inc.",0.3683,18159591.68,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rttr
+RMTI,"Rockwell Medical, Inc.",7.09,366836883.6,n/a,1998,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/rmti
+ROSG,Rosetta Genomics Ltd.,0.8974,4365322.431,n/a,2007,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rosg
+RTIX,"RTI Surgical, Inc.",4.65,276717287.1,n/a,2000,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/rtix
+RXII,RXi Pharmaceuticals Corporation,0.5804,13753934.98,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rxii
+RXIIW,RXi Pharmaceuticals Corporation,0.1799,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rxiiw
+SAGE,"Sage Therapeutics, Inc.",63.5,2377508834,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sage
+SGMO,"Sangamo Therapeutics, Inc.",13.45,1124565771,n/a,2000,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/sgmo
+GCVRZ,Sanofi,0.375,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/gcvrz
+SNY,Sanofi,49.51,1.23965E+11,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sny
+SRPT,"Sarepta Therapeutics, Inc.",51.94,3341420129,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/srpt
+SVRA,"Savara, Inc.",8.49,205487409.4,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/svra
+SCYX,"SCYNEXIS, Inc.",1.88,50238324.44,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/scyx
+SPNE,SeaSpine Holdings Corporation,10.12,127021594.9,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/spne
+SGEN,"Seattle Genetics, Inc.",63.86,9133717631,n/a,2001,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/sgen
+EYES,"Second Sight Medical Products, Inc.",1.14,64745703.78,n/a,2014,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/eyes
+EYESW,"Second Sight Medical Products, Inc.",0.29,0,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/eyesw
+SEM,Select Medical Holdings Corporation,17.8,2366274506,n/a,2009,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/sem
+SELB,"Selecta Biosciences, Inc.",21.31,470404995.2,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/selb
+SNMX,"Senomyx, Inc.",0.92,43713094.36,n/a,2004,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/snmx
+SRTS,"Sensus Healthcare, Inc.",5.89,79448525.46,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/srts
+SRTSW,"Sensus Healthcare, Inc.",1.9887,0,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/srtsw
+MCRB,"Seres Therapeutics, Inc.",9.98,404316137.2,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mcrb
+SHPG,Shire plc,145.25,10586996670,72888101,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/shpg
+SNNA,"Sienna Biopharmaceuticals, Inc.",20.33,417399926.2,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/snna
+SIEN,"Sientra, Inc.",15.16,292691906.6,n/a,2014,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/sien
+SRRA,"Sierra Oncology, Inc.",1.64,85720246.52,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/srra
+SVA,"Sinovac Biotech, Ltd.",7.03,400845404.8,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sva
+SKLN,Skyline Medical Inc.,1.63,10159400.43,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/skln
+SNN,"Smith & Nephew SNATS, Inc.",38.28,17297262125,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/snn
+SLNO,"Soleno Therapeutics, Inc.",2.12,22048000,n/a,2014,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/slno
+SLNOW,"Soleno Therapeutics, Inc.",0.1818,0,n/a,2014,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/slnow
+SNGX,"Soligenix, Inc.",2.071,11852622.94,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sngx
+SNGXW,"Soligenix, Inc.",0.55,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sngxw
+SNOA,"Sonoma Pharmaceuticals, Inc.",4.67,20118187.21,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/snoa
+SNOAW,"Sonoma Pharmaceuticals, Inc.",0.4,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/snoaw
+SRNE,"Sorrento Therapeutics, Inc.",2.8,219860026.4,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/srne
+ONCE,"Spark Therapeutics, Inc.",81.87,2992036493,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/once
+SPPI,"Spectrum Pharmaceuticals, Inc.",19.37,1816076809,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sppi
+SBPH,"Spring Bank Pharmaceuticals, Inc.",16.59,210643860.4,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sbph
+STAA,STAAR Surgical Company,12.95,532358649.2,n/a,n/a,Health Care,Ophthalmic Goods,http://www.nasdaq.com/symbol/staa
+STDY,SteadyMed Ltd.,3.1,82323761.2,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/stdy
+SBOT,"Stellar Biotechnologies, Inc.",1.21,12729316.16,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sbot
+STML,"Stemline Therapeutics, Inc.",11.1,280608266.4,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/stml
+STE,STERIS plc,91.24,7776432919,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/ste
+SSKN,"Strata Skin Sciences, Inc.",1.47,3642282.21,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/sskn
+SBBP,Strongbridge Biopharma plc,6.15,220245915.6,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sbbp
+SYK,Stryker Corporation,150.49,56292785114,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/syk
+SCMP,"Sucampo Pharmaceuticals, Inc.",10.3,479490358.6,n/a,2007,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/scmp
+SMMT,Summit Therapeutics plc,11.64,54818742.96,4709514,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/smmt
+SNSS,"Sunesis Pharmaceuticals, Inc.",1.97,46320992.18,n/a,2005,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/snss
+SSY,"SunLink Health Systems, Inc.",1.5099,13834556.89,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/ssy
+SUPN,"Supernus Pharmaceuticals, Inc.",41.85,2121757754,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/supn
+SGRY,"Surgery Partners, Inc.",9.8,481369708.4,n/a,2015,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/sgry
+SRDX,"Surmodics, Inc.",30.95,405753293,n/a,1998,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/srdx
+SNDX,"Syndax Pharmaceuticals, Inc.",11.9,264417738.2,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sndx
+SGYP,"Synergy Pharmaceuticals, Inc.",2.81,632123384.2,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/sgyp
+SYN,"Synthetic Biologics, Inc",0.919,118055367.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/syn
+SYRS,"Syros Pharmaceuticals, Inc.",16.51,433555951.5,n/a,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/syrs
+TTOO,"T2 Biosystems, Inc.",4.05,144972054.5,n/a,2014,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/ttoo
+TCMD,"Tactile Systems Technology, Inc.",31.99,563967097.2,n/a,2016,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/tcmd
+TNDM,"Tandem Diabetes Care, Inc.",2.53,1270791.17,n/a,2013,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/tndm
+TPIV,TapImmune Inc.,3.11,31594468.23,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tpiv
+TARO,Taro Pharmaceutical Industries Ltd.,108.31,4388013827,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/taro
+TEAR,TearLab Corporation,1.3,7465188.9,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/tear
+TDOC,"Teladoc, Inc.",34.25,1940407754,n/a,2015,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/tdoc
+TFX,Teleflex Incorporated,243.06,10946794819,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/tfx
+TLGT,"Teligent, Inc.",6.46,344911984.1,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tlgt
+TENX,"Tenax Therapeutics, Inc.",0.46,12988811.16,n/a,n/a,Health Care,Biotechnology: Commercial Physical & Biological Resarch,http://www.nasdaq.com/symbol/tenx
+THC,Tenet Healthcare Corporation,14.66,1478029102,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/thc
+TSRO,"TESARO, Inc.",116.4,6306665374,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tsro
+TTPH,"Tetraphase Pharmaceuticals, Inc.",6.47,330315808.6,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ttph
+TEVA,Teva Pharmaceutical Industries Limited,14.9,15138400000,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/teva
+TGTX,"TG Therapeutics, Inc.",8.6,591988679.8,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tgtx
+ENSG,"The Ensign Group, Inc.",23.02,1170988865,n/a,2007,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/ensg
+MDCO,The Medicines Company,33.98,2468287118,n/a,2000,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/mdco
+TXMD,"TherapeuticsMD, Inc.",5.1,1103778424,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/txmd
+TRPX,Therapix Biosciences Ltd.,5.55,11302219.8,2036436,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/trpx
+TBPH,"Theravance Biopharma, Inc.",32.3,1738691946,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tbph
+TIG,TiGenix,23.7,30259520.1,1276773,2016,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tig
+TTNP,"Titan Pharmaceuticals, Inc.",1.9,40287113.6,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/ttnp
+TVTY,"Tivity Health, Inc.",41.2,1622763476,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/tvty
+TOCA,Tocagen Inc.,9.99,197896395.5,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/toca
+TNXP,Tonix Pharmaceuticals Holding Corp.,4.08,30933336,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tnxp
+TCON,"TRACON Pharmaceuticals, Inc.",3.05,50800546.85,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/tcon
+TRXC,"TransEnterix, Inc.",3.47,515421155.3,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/trxc
+TRVN,"Trevena, Inc.",1.76,105065074.4,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/trvn
+TRIL,Trillium Therapeutics Inc.,7.15,77183234.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tril
+TRIB,Trinity Biotech plc,5.11,122408241.1,23954646,1992,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/trib
+TROV,"TrovaGene, Inc.",0.805,30002012.71,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/trov
+TRUP,"Trupanion, Inc.",28.5,854872975.5,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/trup
+TYME,"Tyme Technologies, Inc.",4,357284268,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/tyme
+USPH,"U.S. Physical Therapy, Inc.",66.05,830990703.9,n/a,1992,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/usph
+RARE,Ultragenyx Pharmaceutical Inc.,51.51,2187035172,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/rare
+QURE,uniQure N.V.,19.27,493882372.7,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/qure
+UTHR,United Therapeutics Corporation,121.01,5257024603,n/a,1999,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/uthr
+UNH,UnitedHealth Group Incorporated,207.49,2.00614E+11,n/a,n/a,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/unh
+UHS,"Universal Health Services, Inc.",112.85,10794924838,n/a,n/a,Health Care,Hospital/Nursing Management,http://www.nasdaq.com/symbol/uhs
+URGN,UroGen Pharma Ltd.,27.28,354899269.1,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/urgn
+UTMD,"Utah Medical Products, Inc.",77.25,287292750,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/utmd
+VRX,"Valeant Pharmaceuticals International, Inc.",12.13,4213115605,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vrx
+VLRX,"Valeritas Holdings, Inc.",2.12,14507113.36,n/a,n/a,Health Care,Medical/Dental Instruments,http://www.nasdaq.com/symbol/vlrx
+VNDA,Vanda Pharmaceuticals Inc.,16,717732848,n/a,2006,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vnda
+VAR,"Varian Medical Systems, Inc.",106.69,9794237381,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/var
+VBLT,Vascular Biogenics Ltd.,6,161413710,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vblt
+VBIV,"VBI Vaccines, Inc.",3.53,142009679.6,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/vbiv
+VCYT,"Veracyte, Inc.",9.3,315210173.1,n/a,2013,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/vcyt
+VSTM,"Verastem, Inc.",3.95,156420000,n/a,2012,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vstm
+VCEL,Vericel Corporation,4.2,137863030.2,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/vcel
+VRML,"Vermillion, Inc.",1.49,83684482.18,n/a,n/a,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/vrml
+VRNA,Verona Pharma plc,14.5,94333201,6505738,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vrna
+VSAR,"Versartis, Inc.",2.65,94417112.35,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vsar
+VRTX,Vertex Pharmaceuticals Incorporated,154.63,38985140713,n/a,1991,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vrtx
+VICL,Vical Incorporated,2.38,27136919.46,n/a,1993,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/vicl
+VRAY,"ViewRay, Inc.",6.7,395349466.1,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/vray
+VKTX,"Viking Therapeutics, Inc.",3,83092695,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vktx
+VKTXW,"Viking Therapeutics, Inc.",1.68,0,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vktxw
+VTGN,"VistaGen Therapeutics, Inc.",1.06,11396562.44,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vtgn
+VTL,"Vital Therapies, Inc.",5.75,242692412,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vtl
+VIVE,"Viveve Medical, Inc.",5.28,102460163.5,n/a,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,http://www.nasdaq.com/symbol/vive
+VVUS,"VIVUS, Inc.",0.7954,84199600.35,n/a,1994,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vvus
+VNRX,VolitionRX Limited,2.25,59667075,n/a,2015,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,http://www.nasdaq.com/symbol/vnrx
+VYGR,"Voyager Therapeutics, Inc.",23.1,621475331.4,n/a,2015,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/vygr
+VTVT,vTv Therapeutics Inc.,7.41,243140625,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/vtvt
+WBA,"Walgreens Boots Alliance, Inc.",68.06,72830766837,n/a,n/a,Health Care,Medical/Nursing Services,http://www.nasdaq.com/symbol/wba
+WVE,WAVE Life Sciences Ltd.,22.85,634320889.9,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/wve
+WCG,"WellCare Health Plans, Inc.",180.52,8034697346,n/a,2004,Health Care,Medical Specialities,http://www.nasdaq.com/symbol/wcg
+WMGI,Wright Medical Group N.V.,26.45,2772043450,n/a,2011,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/wmgi
+WMGIZ,Wright Medical Group N.V.,1.55,0,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/wmgiz
+XBIT,XBiotech Inc.,4.12,145929460.6,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xbit
+XNCR,"Xencor, Inc.",21.29,999061778.6,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xncr
+XBIO,"Xenetic Biosciences, Inc.",2.7,23537360.7,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xbio
+XENE,Xenon Pharmaceuticals Inc.,3.25,58494865,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xene
+XOMA,XOMA Corporation,22.65,172095923.1,n/a,1986,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xoma
+XTNT,"Xtant Medical Holdings, Inc.",0.6706,12132899.57,n/a,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),http://www.nasdaq.com/symbol/xtnt
+XTLB,XTL Biopharmaceuticals Ltd.,2.35,3275291.35,1393741,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/xtlb
+ZFGN,"Zafgen, Inc.",3.69,101415683.3,n/a,2014,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zfgn
+ZLAB,Zai Lab Limited,28.24,166135920,5883000,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zlab
+ZEAL,Zealand Pharma A/S,18.63,81506250,4375000,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zeal
+ZBH,"Zimmer Biomet Holdings, Inc.",122.35,24738670812,n/a,n/a,Health Care,Industrial Specialties,http://www.nasdaq.com/symbol/zbh
+ZIOP,ZIOPHARM Oncology Inc,5.4,766599060.6,n/a,n/a,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/ziop
+ZTS,Zoetis Inc.,65.94,32252023586,n/a,2013,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zts
+ZGNX,"Zogenix, Inc.",39.75,987432930,n/a,2010,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zgnx
+ZSAN,Zosano Pharma Corporation,0.8489,33302429.34,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zsan
+ZYME,Zymeworks Inc.,9,228012471,n/a,2017,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zyme
+ZYNE,"Zynerba Pharmaceuticals, Inc.",9.73,128993324.7,n/a,2015,Health Care,Major Pharmaceuticals,http://www.nasdaq.com/symbol/zyne
