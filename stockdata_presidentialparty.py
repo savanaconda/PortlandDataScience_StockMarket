@@ -4,6 +4,7 @@
 # Additionally breaks data into different sectors (Healthcare, Energy, Basic Industry)
 # to see if certain sectors do better or worse for different parties
 
+import pandas as pd
 import matplotlib.pyplot as plt
 from math import *
 import datetime as dt
