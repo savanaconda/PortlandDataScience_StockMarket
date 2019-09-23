@@ -1,7 +1,7 @@
 # PortlandDataScience_StockMarket
 
 ## Description
-Basic stock market analysis from the Appiled Stock Market Analysis Meetup Series of the Portland Data Science Meetup Group
+This project was completed at the Appiled Stock Market Analysis Meetup Series of the Portland Data Science Meetup Group. We analyzed the relationship between presidential party and the performance of different stock market sectors, including Basic Industries, Energy, and Healthcare.
 
 ## System Requirements
 Python 3.6.2, Pandas 0.20.3, Matplotlib 2.0.2, Numpy 1.13.3
